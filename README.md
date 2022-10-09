@@ -1,6 +1,7 @@
 #Translate Clone - React Native
 
 First run : npm install
+
 Then : npm run android
 
 
